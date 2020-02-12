@@ -7,10 +7,8 @@ package com.esprit.entities;
 
 /**
  *
- * @author Mahdi
+ * @author user
  */
-public class Reservation {
-    private int id;
-    private int ida;
+public class Reclamation {
     
 }
